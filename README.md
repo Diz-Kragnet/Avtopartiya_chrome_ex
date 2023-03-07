@@ -5,4 +5,4 @@ Search frame extension for site avtopartiya.com
 - Open chrome://extensions/ and check the box for Developer mode in the top right
 - Load unpacked extension
 
-Download (zip): https://github.com/Diz-Kragnet/Avtopartiya_chrome_ex/releases
+Download (zip): https://github.com/kgn-dev/Avtopartiya_chrome_ex/releases
